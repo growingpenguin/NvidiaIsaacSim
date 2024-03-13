@@ -146,6 +146,8 @@ nvblox4 <br/>
 ```
 ros2 bag info nvblox4
 ```
+![Nvblox2-77](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/0448b0c8-bd47-4344-b418-19126eef607c) <br/>
+
 (6)Play the recorded Ros2 bag file <br/>
 nvblox1 <br/>
 ```
@@ -159,6 +161,11 @@ nvblox3 <br/>
 ros2 bag play nvblox3
 ```
 ![Nvblox2-53](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/ad3f49d2-c6d8-4c41-ad58-34c845fbc3bf) <br/>
+nvblox4 <br/>
+```
+ros2 bag play nvblox4
+```
+![Nvblox2-78](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/57c5b896-dd02-4e1a-bf2d-79b32098b6de) <br/>
 (7)Check by echoing the message <br/>
 nvblox1 <br/>
 ![Nvblox2-44](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/2c7b7e32-f679-4208-a5b0-6a0a5bc44bc9) <br/>
@@ -173,6 +180,11 @@ ros2 topic echo /bond
 ```
 ![Nvblox2-51](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/9452efc5-f510-4a91-a77f-60b0126b707d) <br/>
 ![Nvblox2-52](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/f528090b-809e-457a-86c3-a5ac45a8e635) <br/>
+nvblox4 <br/>
+```
+ros2 topic echo /bond
+```
+
 Rosbag Data Files: 
 Nvblox1: https://drive.google.com/drive/folders/1nUen8gcKWVbZOp92moKA_A-Y1Cqvbxzt?usp=sharing <br/>
 Nvblox2: https://drive.google.com/drive/folders/1m7kGxxKQ_zyDKCj4C6x-W4Fal-SlocVm?usp=sharing <br/>

@@ -128,16 +128,28 @@ ros2 bag record -o nvblox4 \
 
 (5)Display information about a ROS 2 bag file <br/>
 nvblox1 <br/>
+```
+ros2 bag info nvblox1
+```
 ![Nvblox2-40](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/66d71a44-417c-43e1-98c2-3793f18976d7) <br/>
 nvblox2 <br/>
+```
+ros2 bag info nvblox2
+```
 ![Nvblox2-43](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/4e47ed45-3a0c-494f-80ce-8fb19f1a770b) <br/>
 nvblox3 <br/>
 ```
 ros2 bag info nvblox3
 ```
 ![Nvblox2-50](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/117bd462-4dce-43fc-9d1e-d42fb4c10e62) <br/>
+nvblox4 <br/>
+```
+ros2 bag info nvblox4
+```
 (6)Play the recorded Ros2 bag file <br/>
 nvblox1 <br/>
+```
+```
 ![Nvblox2-41](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/79455206-6da2-4035-860b-3a3f0075e0c1) <br/>
 nvblox2 <br/>
 ![Nvblox2-46](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/1660e5a5-dffc-467b-be90-322b90352fa0) <br/>

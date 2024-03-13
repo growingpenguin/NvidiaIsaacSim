@@ -149,6 +149,7 @@ ros2 bag info nvblox4
 (6)Play the recorded Ros2 bag file <br/>
 nvblox1 <br/>
 ```
+ros2 bag play nvblox1
 ```
 ![Nvblox2-41](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/79455206-6da2-4035-860b-3a3f0075e0c1) <br/>
 nvblox2 <br/>
@@ -162,6 +163,9 @@ ros2 bag play nvblox3
 nvblox1 <br/>
 ![Nvblox2-44](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/2c7b7e32-f679-4208-a5b0-6a0a5bc44bc9) <br/>
 nvblox2 <br/>
+```
+ros2 topic echo /bond
+```
 ![Nvblox2-45](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/f8148ba3-df91-4fad-8d59-65adfbb959a9) <br/>
 nvblox3 <br/>
 ```

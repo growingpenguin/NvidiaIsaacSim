@@ -16,7 +16,7 @@ front_hawk/camera_right, front_hawk/camera_left <br/>
 camera_right <br/>
 ![NvbloxConfiguration2](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/24de445b-fc76-478d-8584-0ae13dce798d) <br/>
 camera_left <br/>
-![NvbloxConfiguration3](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/48e832c7-06e0-4cfb-b92c-0f3337545ae4) <br/>
+![NvbloxConfiguration3](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/311dc232-db50-4b21-895b-08592b1e5270) <br/>
 **left_hawk** <br/>
 left_hawk/right/camera_right, left_hawk/left/camera_left <br/>
 camera_right <br/>

@@ -25,7 +25,9 @@ camera_left <br/>
 ![NvbloxConfiguration5](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/b212110e-73c0-4013-ac68-4871d073ac00) <br/>
 **right_hawk** <br/>
 right_hawk/right/camera_right, right_hawk/left/camera_left <br/>
+camera_right <br/>
 ![NvbloxConfiguration6](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/30d751af-b02c-413a-a570-9cc7c1272409) <br/>
+camera_left <br/>
 ![NvbloxConfiguration7](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/ed6567d7-5df8-47d9-879c-e31a1522db31) <br/>
 **back_hawk** <br/>
 back_hawk/right/camera_right, back_hawk/left/camera_left <br/>

@@ -8,6 +8,21 @@ title:  "Nvblox Configuration"
 
 
 ## Camera
+**Translate** <br/>
+X-axis: Moving the object left or right <br/>
+Y-axis: Moving the object up or down <br/>
+Z-axis: Moving the object forward or backward <br/>
+**Orient** <br/>
+X-axis (Pitch): Tilting the object up or down <br/>
+Y-axis (Yaw): Swiveling the object left or right <br/>
+Z-axis (Roll): Rotating the object clockwise or counterclockwise <br/>
+**Scale** <br/>
+X-axis: Changes the object's width. Increasing the scale value stretches the object wider, while decreasing it makes the object narrower <br/>
+Y-axis: Alters the object's height. A higher scale value increases the height, and a lower value decreases it <br/>
+Z-axis: Affects the object's depth. Manipulating this value stretches or shrinks the object's size forward and backward <br/>
+
+
+### Static Reconstruction Camera
 ![NvbloxConfiguration1](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/68a8719c-e944-4d80-bb46-ed50bf9ee09e) <br/>
 12 Cameras in total <br/>
 Camera Names: <br/>
@@ -63,8 +78,6 @@ back_owl/camera <br/>
 
 
 
-
-
  
 **owl** <br/>
 |   | x | y | z |
@@ -74,7 +87,9 @@ back_owl/camera <br/>
 | **Scale** | 0.0   | 0.0  | 0.0  | 
 
 
+
+
 Reference: <br/>
 https://nvidia-isaac-ros.github.io/concepts/scene_reconstruction/nvblox/tutorials/tutorial_isaac_sim.html <br/>
 https://docs.omniverse.nvidia.com/isaacsim/latest/gui_tutorials/tutorial_gui_camera_sensors.html <br/>
-
+https://docs.omniverse.nvidia.com/isaacsim/latest/introductory_tutorials/tutorial_intro_interface.html#isaac-sim-app-tutorial-intro-interface <br/>

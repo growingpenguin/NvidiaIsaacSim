@@ -56,10 +56,15 @@ back_owl/camera <br/>
 **hawk**
 |   | x | y | z |
 |---|----------|----------|----------|
-| **Translate** | Cell 1   | Cell 2   | Cell 3   | 
-| **Orient** | Cell 5   | Cell 6   | Cell 7   | 
-| **Scale** | Cell 9   | Cell 10  | Cell 11  | 
-
+| **Translate** | 0.0   | 0.0   | 0.0   | 
+| **Orient** | 90.0   | -90.0   | 0.0   | 
+| **Scale** | 1.0   | 1.0  | 1.0  | 
+**owl** <br/>
+|   | x | y | z |
+|---|----------|----------|----------|
+| **Translate** | 0.0   | 0.0   | 0.0   | 
+| **Orient** | 0.0   | 0.0   | 0.0   | 
+| **Scale** | 0.0   | 0.0  | 0.0  | 
 
 
 Reference: <br/>

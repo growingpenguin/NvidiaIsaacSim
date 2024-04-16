@@ -26,6 +26,10 @@ A file located originally in Nucleus Server <br/>
 -Overall Hierarchy <br/>
 ![Nvblox_digging6](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/75ef0f7e-063b-41d9-a0ee-d03177afe899) <br/>
 -Robot Structure: <br/>
+Frontside <br/>
+![Nvblox_digging30](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/b25c0368-80cb-4b0e-abfd-d748759c3f24) <br/>
+Backside <br/>
+![Nvblox_digging29](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/44d1670e-f762-4d07-86b4-35b09a5b16cd)<br/>
 (1)RPLidar <br/>
 RPLIDAR S2E(rear_RPLidar) <br/>
 ![Nvblox_digging8](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/1e5d5956-739c-4921-b0d5-8baf7e705df8) <br/>
@@ -39,9 +43,6 @@ front_RPLidar <br/>
 rear_RPLidar <br/>
 ![Nvblox_digging26](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/f6eb1466-72a1-41c2-b172-36ff2c4acd13) <br/>
 ![Nvblox_digging28](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/c2997077-94d6-4eb5-b978-8bece6bf9cae) <br/>
-
-
-
 (2)XT-32 <br/>
 => Load Failure <br/>
 ![Nvblox_digging22](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/6fbf0e15-3d29-46d2-825c-59a29560518c) <br/>

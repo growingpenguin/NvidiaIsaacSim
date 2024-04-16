@@ -8,9 +8,11 @@ title:  "Nvblox Digging"
 
 ## Scene
 carter_warehouse_navigation.usd <br/>
-Link: <br/>
+Link: http://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/2023.1.1/Isaac/Samples/NvBlox/carter_warehouse_navigation.usd <br/>
+A file located originally in Nucleus Server <br/>
 
 
-## Camera
+## Robot
+
 **Translate** <br/>
 

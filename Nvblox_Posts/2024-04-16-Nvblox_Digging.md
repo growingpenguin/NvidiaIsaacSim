@@ -4,7 +4,13 @@ title:  "Nvblox Digging"
 ---
 
 # Nvblox Digging
-## Robot
+## Scripts
+### Static Reconstruction 
+Launch two files <br/>
+start_isaac_sim.py & isaac_sim_example.launch.py <br/>
+
+./python.sh ${ISAAC_ROS_WS}/src/isaac_ros_nvblox/nvblox_examples/nvblox_isaac_sim/omniverse_scripts/start_isaac_sim.py --gpu_physics_enabled
+ros2 launch nvblox_examples_bringup isaac_sim_example.launch.py
 
 ## Scene
 carter_warehouse_navigation.usd <br/>

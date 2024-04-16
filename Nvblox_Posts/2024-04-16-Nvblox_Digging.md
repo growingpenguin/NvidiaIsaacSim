@@ -17,6 +17,9 @@ A file located originally in Nucleus Server <br/>
 ![Nvblox_digging1](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/e1f09d00-7f37-4193-95de-77da7201b55c) <br/>
 -Hierarchy <br/>
 ![Nvblox_digging2](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/3e6a7e37-1216-4b4c-9b7e-3da63a74a99c) <br/>
+![Nvblox_digging4](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/83f7c758-02ee-4bb0-bfd9-67357c266698) <br/>
+-Documentation: <br/>
+https://docs.omniverse.nvidia.com/isaacsim/latest/landing_pages/carter_nova_landing_page.html <br/>
 -Download robot as usd: <br/> 
 http://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/2023.1.1/Isaac/Robots/Carter/nova_carter.usd <br/>
 

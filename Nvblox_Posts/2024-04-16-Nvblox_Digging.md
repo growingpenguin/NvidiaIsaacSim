@@ -35,8 +35,12 @@ RPLIDAR S2E_01 <br/>
 ![Nvblox_digging21](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/0b158b01-dce7-4803-9f25-aac952f9f1b4) <br/>
 front_RPLidar <br/>
 ![Nvblox_digging25](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/d8a7659e-8cac-4433-9c27-a1bfbe931982) <br/>
+![Nvblox_digging27](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/67b500f9-4267-4ad8-a116-3db6249b5ade) <br/>
+
 rear_RPLidar <br/>
 ![Nvblox_digging26](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/f6eb1466-72a1-41c2-b172-36ff2c4acd13) <br/>
+![Nvblox_digging28](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/c2997077-94d6-4eb5-b978-8bece6bf9cae) <br/>
+
 
 
 (2)XT-32 <br/>

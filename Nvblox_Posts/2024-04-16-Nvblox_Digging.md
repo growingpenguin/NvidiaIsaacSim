@@ -27,16 +27,15 @@ A file located originally in Nucleus Server <br/>
 ![Nvblox_digging6](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/75ef0f7e-063b-41d9-a0ee-d03177afe899) <br/>
 -Robot Structure: <br/>
 (1)RPLidar <br/>
-RPLIDAR S2E <br/>
+RPLIDAR S2E(rear_RPLidar) <br/>
 ![Nvblox_digging8](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/1e5d5956-739c-4921-b0d5-8baf7e705df8) <br/>
 ![Nvblox_digging20](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/09c152bb-893c-4bc3-90fa-8f431e3eee65) <br/>
-RPLIDAR S2E_01 <br/>
+RPLIDAR S2E_01(front_RPLidar) <br/>
 ![Nvblox_digging10](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/050dbae3-1663-4335-9e53-5d167161ede2) <br/>
 ![Nvblox_digging21](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/0b158b01-dce7-4803-9f25-aac952f9f1b4) <br/>
 front_RPLidar <br/>
 ![Nvblox_digging25](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/d8a7659e-8cac-4433-9c27-a1bfbe931982) <br/>
 ![Nvblox_digging27](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/67b500f9-4267-4ad8-a116-3db6249b5ade) <br/>
-
 rear_RPLidar <br/>
 ![Nvblox_digging26](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/f6eb1466-72a1-41c2-b172-36ff2c4acd13) <br/>
 ![Nvblox_digging28](https://github.com/growingpenguin/growingpenguin.github.io/assets/110277903/c2997077-94d6-4eb5-b978-8bece6bf9cae) <br/>
